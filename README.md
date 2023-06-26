@@ -4,5 +4,13 @@
 
 #LIVE WEBSITE LINK https://ln.run/Pf4uy
 
-#Requirements pdf reader
-# An android phone/ a tablet/ laptop or a desktop computer
+# Requirements 
+#pdf reader installed
+#An android phone/ a tablet/ laptop or a desktop computer
+
+# login guide
+#admin
+#username admin@gmail.com
+#password 000000
+#user
+#Register by choosing free trial
