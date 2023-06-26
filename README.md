@@ -16,7 +16,7 @@
 
 #username admin@gmail.com  //
 
-#password 000000
+#password 777777
 
 # user
 
